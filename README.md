@@ -1,7 +1,7 @@
 Hi there! 👋
 
 My name is Alessandra Salanitri, and I'm a creative individual with a passion for coding. 
-I'm currently in my second year of studying Computer Science at Solent University.
+I'm currently in my third year of studying Computer Science at Solent University.
 
 About Me
 
