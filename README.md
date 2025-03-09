@@ -1,12 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F71111&multiline=true&width=435&lines=Hi+there!+%F0%9F%91%8B+My+name+is+Alessandra.)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72CD1&width=435&lines=Hi+there!+My+name+is+Alessandra.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72CD1&width=435&lines=Hi+there!+%F0%9F%91%8B+My+name+is+Alessandra.)](https://git.io/typing-svg)
 
 ![Coding](https://github.com/user-attachments/assets/9d8e3a38-dac2-4e9f-b1c2-7ebea7b9afbd)
 
 
 <div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/9d8e3a38-dac2-4e9f-b1c2-7ebea7b9afbd)" alt="Coding" width="200" />
+  <img src="https://github.com/user-attachments/assets/9d8e3a38-dac2-4e9f-b1c2-7ebea7b9afbd" alt="Coding" width="150" />
 </div>
 
 
