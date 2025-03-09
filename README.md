@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F71111&multiline=true&width=435&lines=Hi+there!+%F0%9F%91%8B+My+name+is+Alessandra.)](https://git.io/typing-svg)
 
 
-![Coding](https://github.com/user-attachments/assets/42c617fd-c50c-4a15-925d-692520769285)
+![Coding]!(https://github.com/user-attachments/assets/c34381be-ba3f-438c-96d1-4f79e515dda0)
+
 
 
 
