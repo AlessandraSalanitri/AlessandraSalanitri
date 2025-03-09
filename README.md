@@ -1,6 +1,9 @@
-Hi there! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines= Hi there! 👋 ;My name is Alessandra, and I'm a creative individual with a passion for coding.; )](https://git.io/typing-svg)
 
-My name is Alessandra Salanitri, and I'm a creative individual with a passion for coding. 
+
+Hi there! 
+
+
 I'm currently in my third year of studying Computer Science at Solent University.
 
 About Me
