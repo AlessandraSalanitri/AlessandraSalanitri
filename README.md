@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F71111&multiline=true&width=435&lines=Hi+there!+%F0%9F%91%8B+My+name+is+Alessandra.)](https://git.io/typing-svg)
 
 
-![Coding](![image](https://github.com/user-attachments/assets/08ca40b1-7b6e-42cf-bf7d-379b6661a0a1))
+![Coding](https://github.com/user-attachments/assets/08ca40b1-7b6e-42cf-bf7d-379b6661a0a1)
 
 
 I'm currently in my third year of studying Computer Science at Solent University.
