@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines= Hi there! 👋 ;My name is Alessandra, and I'm a creative individual with a passion for coding.; )](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines= Hi+there!+👋 ;My+name+is+Alessandra,+and+I'm+a+creative+individual+with+a+passion+for+coding.;)](https://git.io/typing-svg)
 
 
 Hi there! 
