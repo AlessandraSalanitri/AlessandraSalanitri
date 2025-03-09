@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F71111&multiline=true&width=435&lines=Hi+there!+%F0%9F%91%8B+My+name+is+Alessandra.)](https://git.io/typing-svg)
 
 
-![Coding](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
+![Coding]([https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Fyoung-woman-coding-desk-with-computer-setup-showcasing-programming-languages-creative-workspace-modern-environment_400611676.htm&psig=AOvVaw0M7ihE9hxYQ5qGT0aM3v-x&ust=1741604174942000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKiau6Tr_IsDFQAAAAAdAAAAABAE))
 
 
 I'm currently in my third year of studying Computer Science at Solent University.
