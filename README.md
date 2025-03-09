@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71111&width=435&lines=Hi+there!+%F0%9F%91%8B+My+name+is+Alessandra.+Currently+bringing+to+life+%22Clair%22%2C+an+AI-powered+assistant.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F71111&multiline=true&width=435&lines=Hi+there!+%F0%9F%91%8B+My+name+is+Alessandra.;+Currently+bringing+to+life+%22Clair%22%2C+an+AI-powered+assistant.)](https://git.io/typing-svg)
 
+![alt text]([http://url/to/img.png](https://as2.ftcdn.net/v2/jpg/04/98/96/73/1000_F_498967328_xm97ib6r5D2wqotaAWUT18JHwG3y86Oh.jpg))
 
 
 
