@@ -4,9 +4,25 @@
   <img src="https://github.com/user-attachments/assets/9d8e3a38-dac2-4e9f-b1c2-7ebea7b9afbd" alt="Coding" width="250" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72CD1&width=435&lines=Currently+developing+%22Clair%22.)](https://git.io/typing-svg)
+## Currently Developing **"Clair"**  🤖 
+> An AI-powered assistant, with vision, memory, reasoning, and conversational intelligence.  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=95267C&width=435&lines=A+true+digital+companion+%F0%9F%A4%96;an+AI-+powered+assistant+with+vision%2C+memory%2C+reasoning%2C+and+conversational+intelligence.)](https://git.io/typing-svg)
+<p align="center">
+  <svg width="100%" height="100">
+    <defs>
+      <linearGradient id="grad1" x1="0%" y1="50%" x2="100%" y2="50%">
+        <stop offset="0%" style="stop-color:#F72CD1; stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#4B0082; stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="28" font-weight="bold" fill="url(#grad1)">
+    </text>
+  </svg>
+</p>
+
+
+
+
 
 
 ## 🚀 Tech Stack & Tools
@@ -20,6 +36,7 @@
 | **Data & Business Intelligence** | ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-FFA500?style=for-the-badge) ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-FFD700?style=for-the-badge) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) |
 | **Databases**              | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
 | **Version Control & CI/CD** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| **Design & UX**           | ![UX Strategy](https://img.shields.io/badge/UX%20Strategy-800080?style=for-the-badge) ![Human-Computer Interaction](https://img.shields.io/badge/HCI-008080?style=for-the-badge) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) |
 | **Tools & Platforms**      | ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 | **Operating Systems**      | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 | **Security & SIEM Tools**  | ![SIEM Tools](https://img.shields.io/badge/SIEM%20Tools-5A5A5A?style=for-the-badge) |
@@ -27,20 +44,18 @@
 ---
 
 
+## About Me 🌱
 
-About Me
-
-🌱 I'm on a constant journey of learning and improving my skills in the tech field.
-💻 I have knowledge in Python, Java, HTML, JavaScript, Node.js, Express.js, and AJAX.
-📚 You'll find in my repositories some of the projects I've developed during my university course.
+..On a constant journey of learning and improving my skills in the tech field 💻 
+📚 In my repositories some of the projects I've developed during my university course.
 These projects showcase my growth and dedication to mastering software development.
 
-My Goals ✨
+## My Goals ✨
 
 I am eager to hone my skills further and I am actively looking for opportunities to work as a Junior Software Engineer. 
 I believe that working within a company will not only help me develop my skills to their fullest potential but also allow me to contribute to real-world projects and make a tangible impact.
 
-Let's Connect!
+## Let's Connect! 🚀
 I'm open to collaborating on projects and sharing knowledge within the tech community. 
 If you're interested in connecting, feel free to reach out to me.
 
