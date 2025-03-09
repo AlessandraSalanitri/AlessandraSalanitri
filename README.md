@@ -3,6 +3,9 @@
 
 ![Coding](https://github.com/user-attachments/assets/d96c7595-0cba-4285-88aa-344c9e7ec074)
 
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/d96c7595-0cba-4285-88aa-344c9e7ec074" alt="Coding" width="400" />
+</div>
 
 
 I'm currently in my third year of studying Computer Science at Solent University.
