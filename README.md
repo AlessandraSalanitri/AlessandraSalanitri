@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines= Hi+there!+👋 ;My+name+is+Alessandra,+and+I'm+a+creative+individual+with+a+passion+for+coding.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71111&width=435&lines=Hi+there!+%F0%9F%91%8B+My+name+is+Alessandra.+Currently+bringing+to+life+%22Clair%22%2C+an+AI-powered+assistant.)](https://git.io/typing-svg)
 
 
-Hi there! 
 
 
 I'm currently in my third year of studying Computer Science at Solent University.
