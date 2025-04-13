@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/9d8e3a38-dac2-4e9f-b1c2-7ebea7b9afbd" alt="Coding" width="250" />
 </div>
 
-## Currently Developing **"Clair"**  🤖 
+## Currently Developing **"Clark"**  🤖 
 > An AI-powered assistant, with vision, memory, reasoning, and conversational intelligence.  
 
 <p align="center">
