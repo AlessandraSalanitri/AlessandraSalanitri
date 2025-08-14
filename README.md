@@ -4,6 +4,9 @@
   <img src="https://github.com/user-attachments/assets/9d8e3a38-dac2-4e9f-b1c2-7ebea7b9afbd" alt="Coding" width="250" />
 </div>
 
+## Fist Class Honor Computer Science Graduate
+> With a Passion for Web Development, AI and cybersecurity
+
 ## Currently Developing a Social Media Mobile App 
 > With React Native and PostgreSQL  
 
