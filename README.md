@@ -4,8 +4,8 @@
   <img src="https://github.com/user-attachments/assets/9d8e3a38-dac2-4e9f-b1c2-7ebea7b9afbd" alt="Coding" width="250" />
 </div>
 
-## Currently Developing **"Clark"**  🤖 
-> An AI-powered assistant, with vision, memory, reasoning, and conversational intelligence.  
+## Currently Developing a Social Media Mobile App 
+> With React Native and PostgreSQL  
 
 <p align="center">
   <svg width="100%" height="100">
